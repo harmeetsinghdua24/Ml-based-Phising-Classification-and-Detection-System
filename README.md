@@ -1,0 +1,2 @@
+# Ml-based-Phising-Classification-and-Detection-System
+A cybersecurity-focused project designed to demonstrate how phishing attacks work and how users can identify malicious websites, emails, and login pages. This project helps spread awareness about online scams and showcases techniques used for phishing detection and prevention. 
