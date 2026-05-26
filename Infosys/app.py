@@ -2,7 +2,6 @@
 Flask Web Application for Phishing Detection
 Integrates with your trained Random Forest model (.pkl file)
 """
-
 from flask import Flask, render_template, request, redirect, url_for, session, flash, jsonify
 import pickle
 import pandas as pd
